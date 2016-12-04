@@ -14,3 +14,7 @@ void forth_function(){
 
 void fifth_function(){
 }
+
+void sixth_function(){
+}
+
