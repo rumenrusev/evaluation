@@ -12,4 +12,5 @@ void third_function(){
 void forth_function(){
 }
 
-void fifth_function()
+void fifth_function(){
+}
